@@ -7,6 +7,6 @@
 
 Ужгород-2022 Хід роботи
 
-Пройти гру Git Learn та зробити скріншоти пройдених рівнів.!
-[16](https://user-images.githubusercontent.com/99879459/224990256-d8f6f853-abb7-47cd-8561-e7148b4f400e.png)
+Пройти гру Git Learn та зробити скріншоти пройдених рівнів.
+![16](https://user-images.githubusercontent.com/99879459/224990256-d8f6f853-abb7-47cd-8561-e7148b4f400e.png)
 ![17](https://user-images.githubusercontent.com/99879459/224990285-fb303ae7-8054-42fa-8b45-4bf018e869be.png)
