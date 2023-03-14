@@ -15,3 +15,8 @@
 Зробити git commit. Після чого завдяки команді git add . я додав обидва файла в гіт і прописав команду git commit –m “first commit”.
 ![lab2](https://user-images.githubusercontent.com/99879459/224990693-b38e7ebf-62e9-4d54-a8c3-06c80178f778.png)
 
+Зробити git push у віддалений репозиторій
+![lab2-1](https://user-images.githubusercontent.com/99879459/224991838-f79d7b98-8d2b-45b8-a6cc-9277e3b4de1c.png)
+
+
+
