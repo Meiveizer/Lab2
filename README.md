@@ -19,3 +19,13 @@
 ![6](https://user-images.githubusercontent.com/99879459/225442127-3c5571fb-fad4-4064-be6d-362bf1360c20.png)
 ![7](https://user-images.githubusercontent.com/99879459/225442253-ec1fb791-2681-4334-8627-cb69c4142b6a.png)
 ![8](https://user-images.githubusercontent.com/99879459/225442284-5dbfad30-ba52-475b-b201-edc9d4ad41aa.png)
+Я перейменував свій локальний репозиторій за допомогою docker tag lab3:latest 
+meiveizer/lab3:latest і запушив за допомогою docker push meiveizer/lab3:latest
+![10](https://user-images.githubusercontent.com/99879459/225588344-6f51785b-d71c-4da3-921f-ace5c92488a1.png)
+Бачимо залитий репозиторій на DockerHub ( https://hub.docker.com/repository/docker/meiveizer/lab3/general ) 
+
+4. Скачати Docker Image когось із групи і розвернути в себе контейнер з HTML сторінкою на порті 8086 ззовні. Для виконання цього завдання я скачаю Docker Image мого однокурсника Русина Олександра (https://hub.docker.com/r/sasharusyn/docker_lab3).
+![11](https://user-images.githubusercontent.com/99879459/225589171-eae50ec5-4dab-4022-8291-ceb51af2bd01.png)
+![12](https://user-images.githubusercontent.com/99879459/225589215-b8e09ee2-e3e4-4cbd-a6fb-f35b36a6c4a2.png)
+
+Висновки: на цій лабораторній роботі я навчився працювати з Docker, використовувати готові DockerImage та працювати з DockerCompose, створювати теги, робити push та стягувати готові DockerImage.
